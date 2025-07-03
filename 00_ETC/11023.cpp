@@ -9,6 +9,7 @@ int main() {
     }
     cout << sum;
 }
+
 //
 // Created by 최승우 on 25. 6. 14.
 //
