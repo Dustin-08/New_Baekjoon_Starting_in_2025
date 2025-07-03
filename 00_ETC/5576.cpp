@@ -35,6 +35,7 @@ int main() {
     cout << sumK;
     return 0;
 }
+
 //
 // Created by 최승우 on 25. 7. 3.
 //
