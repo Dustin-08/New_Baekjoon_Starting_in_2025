@@ -1,5 +1,6 @@
 // 2차원 벡터 입력 받은 후, 브루트포스 진행
 // 입력받는 체스판이 띄어쓰기가 없기에 string으로 받고 char 배열로 변환하기
+// 코드 참고: https://velog.io/@minlee01/C-%EB%B0%B1%EC%A4%80-1018-%EC%B2%B4%EC%8A%A4%ED%8C%90-%EB%8B%A4%EC%8B%9C-%EC%B9%A0%ED%95%98%EA%B8%B0
 
 #include <iostream>
 #include <vector>
